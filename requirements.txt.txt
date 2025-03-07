@@ -1,4 +1,5 @@
 pandas==2.2.3
-numpy==2.2.3
+mathplotlib
 streamlit
+seaborn
 pip==24.3.1
